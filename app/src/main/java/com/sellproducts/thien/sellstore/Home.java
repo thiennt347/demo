@@ -25,12 +25,6 @@ import android.view.ViewGroup;
 import android.widget.CheckBox;
 import android.widget.TextView;
 import android.widget.Toast;
-
-
-// Demo test git commit
-
-
-
 import com.andremion.counterfab.CounterFab;
 import com.daimajia.slider.library.Animations.DescriptionAnimation;
 import com.daimajia.slider.library.SliderLayout;
